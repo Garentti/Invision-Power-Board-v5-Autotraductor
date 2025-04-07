@@ -1,5 +1,5 @@
 # Invision-Power-Board-v5-Autotraductor
-<img src="https://github.com/Garentti/Invision-Power-Board-v5-Autotraductor/blob/main/images/screenshot.png?raw=true" width="300">
+<img src="https://github.com/Garentti/Invision-Power-Board-v5-Autotraductor/blob/main/images/screenshot.png" width="300">
 ## ¿Qué es y para qué sirve?
 El **Autotraductor** de Invision Power Board versión 5.x.x es una herramienta automatizada utilizada para traducir automáticamente **TODA** la suite de IPS (Invision Power Suite) al idioma deseado pero en este caso por defecto al Español (España).
 La herramienta es muy simple y está creada en lenguaje Python.
